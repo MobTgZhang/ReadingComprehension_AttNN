@@ -8,6 +8,8 @@ And the finial score of the three models lists as follows:</p>
 <p>Att-RNN 0.445342835253 0.311997173107</p>
 <p>Att-GRU 0.696281333858 0.145266796306</p>
 <p>Att-LSTM 0.606448015981 0.157967669988</p>
+<p>We use the BCELoss (Cross Entory) to calculate the relatedness of the model.The score is properly described by BCELoss function ./p>
+ <p>Addtionaly, We use the mean loss to evelucate the model.And some of the other information see the code.</p>
 ----------
 <br>## Note! </br>
 <p>The model must be placed on a workstation with an integrated GPU and trained to automatically select free GPU resources to prevent resource preemption.</p>
