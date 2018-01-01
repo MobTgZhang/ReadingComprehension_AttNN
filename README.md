@@ -1,6 +1,6 @@
 # ReadingComprehension_AttNN
-Based on the recurrent neural network and its variant, we closely and correctly predict the sentence relatedness.
-And the finial score of the three models lists as follows:
+<p>Based on the recurrent neural network and its variant, we closely and correctly predict the sentence relatedness.
+And the finial score of the three models lists as follows:</p>
 <p>Model name &emsp Peason Score &emsp MSE score
 <p>SimpleLSTM &emsp 0.215939774023 &emsp 0.265131676145</p>
 <p>SimpleGRU &emsp 0.21431587721 &emsp 0.36135241366</p>
