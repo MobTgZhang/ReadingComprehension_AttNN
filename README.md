@@ -10,3 +10,4 @@ And the finial score of the three models lists as follows:</p>
 <p>Att-LSTM 0.606448015981 0.157967669988</p>
 <br>## Note! </br>
 <p>The model must be placed on a workstation with an integrated GPU and trained to automatically select free GPU resources to prevent resource preemption.</p>
+<p>To get the details of the trainig processing and eveluation ,you see the essay. </p>
