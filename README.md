@@ -2,7 +2,7 @@
 <p>Based on the recurrent neural network and its variant, we closely and correctly predict the sentence relatedness.
 And the finial score of the three models lists as follows:</p>
 ----------
-**Model name Peason Score  MSE score**
+<p>Model name Peason Score  MSE score</p>
 <p>SimpleLSTM 0.215939774023 0.265131676145</p>
 <p>SimpleGRU 0.21431587721 0.36135241366</p>
 <p>Att-RNN 0.445342835253 0.311997173107</p>
