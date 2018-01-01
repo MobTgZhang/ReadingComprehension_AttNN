@@ -1,4 +1,4 @@
-# ReadingComprehension_AttNN
+# ReadingComprehension_AttRNN
 <p>Based on the recurrent neural network and its variant, we closely and correctly predict the sentence relatedness.
 And the finial score of the three models lists as follows:</p>
 ----------
