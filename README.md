@@ -9,7 +9,7 @@ And the finial score of the three models lists as follows:</p>
 <p>Att-GRU 0.696281333858 0.145266796306</p>
 <p>Att-LSTM 0.606448015981 0.157967669988</p>
 <p>We use the BCELoss (Cross Entory) to calculate the relatedness of the model.The score is properly described by BCELoss function .</p>
- <p>Addtionaly, We use the mean loss to evelucate the model.And some of the other information see the code.</p>
+ <p>Addtionaly, We use the mean loss to evelucate the model.And some of the other information,you can see the code.</p>
 ----------
 <br>## Note! </br>
 <p>The model must be placed on a workstation with an integrated GPU and trained to automatically select free GPU resources to prevent resource preemption.</p>
@@ -17,4 +17,4 @@ And the finial score of the three models lists as follows:</p>
 <p>The details of the application are following below:</p>
 <p>Four CPUs: Intel® Xeon® E5-2600 v3/v4</p>
 <p>Four GPUs for cuda environment</p>
-<p>To get the details of the trainig processing and eveluation ,you see the essay. </p>
+<p>To get the details of the trainig processing and eveluation ,you can see the essay. </p>
